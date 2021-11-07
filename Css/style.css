@@ -244,11 +244,14 @@ min-height: 30rem;
     color: white;
     margin: auto 1rem;
     text-align: justify;
+    font-size: 2rem;
+    line-height: auto;
     
     }
     .nosotros__contenido{
         
         margin: auto 1rem;
+      
     
     }
 
@@ -268,6 +271,7 @@ min-height: 30rem;
         align-items: center;
         color: white;
         margin: auto 1rem;
+        font-size: auto;
 
         
         }
@@ -327,6 +331,10 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         border-style: solid;
         border-radius: 15px;
         border-width: 3px;
+    }
+
+    .bloque p{
+        line-height: 25px;
     }
 
   
