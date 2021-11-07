@@ -81,6 +81,8 @@ header img{
     a{
         margin-bottom: 0;
         border-radius: 20px;
+        -webkit-text-stroke: 1rem cornsilk;
+
     }
 
     header{
@@ -162,9 +164,7 @@ color:rgb(145, 31, 16);
 width: 100%;
 }
 
-.producto__informacion{
 
-}
 
 .producto__nombre{
     font-family: var(--fuenteprincipal);
