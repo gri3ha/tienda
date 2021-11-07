@@ -80,8 +80,9 @@ header img{
 
     header a h1{
         margin-bottom: 0;
+        font-size: 12rem;
         border-radius: 20px;
-        -webkit-text-stroke: 0.5rem crgb(255, 255, 255)
+        -webkit-text-stroke: 0.5rem rgb(255, 255, 255)
 
     }
 
