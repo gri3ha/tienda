@@ -78,10 +78,10 @@ header img{
         
     }
 
-    a{
+    header a{
         margin-bottom: 0;
         border-radius: 20px;
-        -webkit-text-stroke: 1rem cornsilk;
+        -webkit-text-stroke: 0.5rem crgb(255, 255, 255)
 
     }
 
