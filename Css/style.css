@@ -511,6 +511,7 @@ width: 100%;
     grid-template-columns: repeat(2,1fr);
     column-gap: 3rem;
     row-gap: 3rem;
+    margin: auto 2rem;
     
    
 }
@@ -521,5 +522,17 @@ width: 100%;
     border-style: solid;
     border-radius: 15px;
     border-color:rgb(254, 252, 255);
+
+}
+
+
+
+@media(max-width:768px){
+    .videos{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        column-gap: 3rem;
+        row-gap: 3rem;       
+    }
 
 }
